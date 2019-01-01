@@ -8,4 +8,4 @@ Clone or Download this repository and run the following command:
 ```
 go get -d ./...
 ```
-Then you can build the project with `go build` commmand or running the executable or by using the following command: `go run main.go` 
+Then you can build the project with `go build` commmand or running the executable or by using the following command: `go run main.go`.
